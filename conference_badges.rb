@@ -20,6 +20,6 @@ new_array
 end
 
 def printer(array)
-array.each do |x|x= puts batch_badge_creator(array)
+#array.each do |x|x= puts batch_badge_creator(array)
 puts assign_rooms(array)
 end 
